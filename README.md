@@ -11,7 +11,7 @@
 * [Chipboard](https://github.com/fazzaan/font-chipboard) -- Version 1.1 (Latin, Greek, numbers, common diacritics)
 * [Leaf Tech](https://github.com/fazzaan/font-leaftech) -- Version 1.371 (Latin, Vietnamese, numbers, basic punctuation & symbols)
 * [Hexic Vertical](https://github.com/fazzaan/font-hexic-vertical) -- Version 0.5 (Latin)
-* [Elfic](https://github.com/fazzaan/font-elfic) (lost)
+* [Elfic](https://github.com/fazzaan/font-elfic) (Doodled but not yet reached stable structure. Needs a lot more experimentation still.)
 
 
 ### Useful resources
